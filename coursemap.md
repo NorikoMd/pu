@@ -26,6 +26,7 @@
    [Link 2-1](CH01資訊安全概論.pptx)
 
 - **Chapter 2 ⚖️ Information Security Laws and Incident Management**
+   [Link 2-2](CH02資訊法律與事件處理.pptx)
 
 ---
 
