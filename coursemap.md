@@ -1,48 +1,48 @@
 ---
-# 📚 第一週　課堂規定及評量標準 - 說明
+# 📚 Week 1 - Class Rules and Evaluation Criteria - Description
 
 ---
 
-1. **📜 課堂規定及評量標準**
+1. **📜 Class Rules and Evaluation Criteria**
 
-2. **🎓 如何成為一位稱職的大學生**
+2. **🎓 How to Become a Responsible University Student**
 
-3. **📑 課程目錄_資訊安全**
+3. **📑 Course Outline - Information Security**
 
-4. **💬 上課前 聊-資訊安全_Overview_Concept**
+4. **💬 Pre-Class Discussion - Information Security Overview Concept**
 
-5. **📚 資訊常用語大補帖** - 可取代期末考的報告主題  
+5. **📚 Common Information Security Terms - Alternative Report Topic for Final Exam**  
    [Link 1-5](1-5.常見資訊用語_及_同學可以報告_取代期中期未考的題目.txt)
 
-6. **🛠️ 資訊安全相關工作職位**
+6. **🛠️ Information Security Job Roles**
 
 ---
 
-# 🛡️ 第一篇　資訊安全認知與風險識別
+# 🛡️ Part 1 - Information Security Awareness and Risk Identification
 
 ---
 
-- **第 1 章 🧑‍💻 資訊安全概論**  
+- **Chapter 1 🧑‍💻 Introduction to Information Security**  
    [Link 2-1](CH01資訊安全概論.pptx)
 
-- **第 2 章 ⚖️ 資訊法律與事件處理**
+- **Chapter 2 ⚖️ Information Security Laws and Incident Management**
 
 ---
 
-# 🔐 第二篇　信任與安全架構
+# 🔐 Part 2 - Trust and Security Architecture
 
 ---
 
-- **第 4 章 🔑 認證、授權與存取控制**
+- **Chapter 4 🔑 Authentication, Authorization, and Access Control**
 
-- **第 7 章 🌐 資訊系統與網路模型**
-
----
-
-# ⚠️ 第三篇　威脅
+- **Chapter 7 🌐 Information Systems and Network Models**
 
 ---
 
-- **第 3 章 🧨 資訊安全威脅**
+# ⚠️ Part 3 - Threats
 
-- **第 10 章 🦠 惡意程式與防毒**
+---
+
+- **Chapter 3 🧨 Information Security Threats**
+
+- **Chapter 10 🦠 Malware and Antivirus**
